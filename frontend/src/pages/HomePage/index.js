@@ -70,7 +70,7 @@ class HomePage extends React.Component {
                   <InputGroup className="mb-3">
                     <FormControl
                       autoFocus={true}
-                      defaultValue={`https://pitu.tk/${code}`}
+                      defaultValue={`https://pitu-encurtador.vercel.app/${code}`}
                       ref={(input) => this.inputURL = input}
                       
                     />
