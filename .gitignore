@@ -1,9 +1,10 @@
 *.log
 /backend/node_modules
 /backend/dist
+/backend/.env
 # /backend/src/database.ts
 
-
+.env
 
 .DS_Store
 .env.local
