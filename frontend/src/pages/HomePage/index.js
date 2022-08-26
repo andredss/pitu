@@ -78,7 +78,7 @@ class HomePage extends React.Component {
                       variant="outline-secondary" onClick={() => this.copyToClipboard()}>Copiar
                     </Button>
                   </InputGroup>
-                  <p>Para acompanhar as estatísticas, acesse https://pitu.tk/${code}</p>
+                  <p>Para acompanhar as estatísticas, acesse https://pitu-encurtador.vercel.app/${code}</p>
                 </>
               )
             )}
