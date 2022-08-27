@@ -40,7 +40,9 @@
 <p>** Frontend: vercel</p>
 <p>** Backend: Railway</p>
 
-<a href="https://pitu-rosy.vercel.app/" target="_blank">Project
+<a href="https://pitu-rosy.vercel.app/" target="_blank">
+      Project:
+      <br/>
       <img src="./deploy.png" alt="Project" >
 </a>
 
