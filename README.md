@@ -42,7 +42,8 @@
 
 <a href="https://pitu-rosy.vercel.app/" target="_blank">
       Project:
-      <br/>
+      <br>
+      <br>
       <img src="./deploy.png" alt="Project" >
 </a>
 
