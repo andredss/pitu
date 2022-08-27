@@ -87,7 +87,7 @@ class HomePage extends React.Component {
           </Form>
         </ContentContainer>
         <ContentContainer>
-          <AdsBlock>Adense</AdsBlock>
+          <AdsBlock>AdSense</AdsBlock>
         </ContentContainer>
       </Container>
     )
