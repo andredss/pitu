@@ -10,7 +10,7 @@
   <p>* Cors.</p>
   
 
-  <span>After downloading the project, inside the backend folder, start with the command:
+<span>After downloading the project, inside the backend folder, start with the command:
         npm start</span>
 <span>Creates a "database.ts" file at the root of your project to include the following content in this file:</span>
 
@@ -35,4 +35,19 @@
   <p>* Font Awesome</p>
   <p>* Date-fns</p>
 
-  
+<h1>Deployment to production:</h1>
+
+<p>** Frontend: vercel</p>
+<p>** Backend: Railway</p>
+
+<a href="https://pitu-rosy.vercel.app/" target="_blank">Project
+      <img src="./deploy.png" alt="Project" >
+</a>
+
+
+
+
+
+
+
+<span>Thanks to Luis Tools</span>
