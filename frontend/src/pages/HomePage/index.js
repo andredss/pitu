@@ -54,7 +54,7 @@ class HomePage extends React.Component {
           <Form onSubmit={this.handleSubmit}>
             <InputGroup className="mb-3">
               <FormControl
-                placeholder="Digite a url para encurtar"
+                placeholder="Cole sua url aqui para encurtar"
                 defaultValue=""
                 onChange={e => this.setState({ url: e.target.value })}
               />
